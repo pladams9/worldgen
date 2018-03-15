@@ -1,5 +1,4 @@
-# Worldgen
-Version 0.1.0
+# Worldgen - 0.1.0
 
 Primarily PHP-based web app that generates maps. Uses a randomizable seed and various settings to do so.
 
